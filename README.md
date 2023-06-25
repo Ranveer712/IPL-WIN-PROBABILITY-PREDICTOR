@@ -1,4 +1,4 @@
-# IPL-WIN-PROBABILITY-PREDICTOR
+# IPL-WIN-PROBABILITY-PREDICTOR  WEB APPLICATION DEPLOYED ON STREAMLIT
 # IPL Win Probability Predictor
 This project is an IPL (Indian Premier League) Win Probability Predictor, developed using machine learning techniques. The predictor analyzes historical match data, team performances, player statistics, and venue conditions to predict the win probabilities for upcoming IPL matches. It provides valuable insights for decision-making based on the predicted win probabilities.
 
